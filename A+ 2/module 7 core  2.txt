@@ -1,0 +1,25 @@
+RADIUS 
+rermote Authentication dial in user service 
+
+terminal aaccsess controller access control system 
+
+the onforce use of ACL thorugh the local secuirty policy 
+
+conside using the RADIUS with  A VPN 
+ 
+ 
+
+PII p[eronal identiafbale information 
+PHI proteted healtth info 
+
+Payment Card Industry Data 
+Security Standard: (PCI DSS) A 
+standard for organizations that 
+process credit or bank card 
+payments
+
+EFS encryprion files sytem 
+
+FDE fulll disk encryption 
+
+DLP data loss pretion 

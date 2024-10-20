@@ -1,0 +1,38 @@
+task kill / pid 
+task kill / im
+use /t 
+use / f
+task list 
+these can be used in rthe command line interface 
+
+
+ODBC open adatbase connectivity 
+
+netstart net stop
+POST
+BCD
+MBR 
+
+all the command for no os foun d
+
+bootrec /fixmbt
+bootrec/ fixboot
+bootrec/ rebuild  
+OEM recovery
+
+ping
+• ipconfig
+• nslookup
+• tracert
+• Two net commands
+• netstat
+
+
+-------------------------------
+
+sfc/ scannnow 
+sfc/ scanone          
+sfc / scanbot
+
+-----------------------
+

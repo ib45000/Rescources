@@ -1,0 +1,38 @@
+the three diffrent ypes of back up
+Full
+icrermental 
+differential
+weol also have 
+synthetic backup
+GFS back up grand father- son backup
+
+
+
+the name of  the bacck up in an apple devfice callled 
+time  machine 
+
+
+EULA is an en licnce user agremant 
+XML 
+extensialbe mark up langhuage its the files for windows  that contains all the 
+intruction for windos start up programe 
+
+
+
+windows system manger 
+configure the answer files 
+product key , disk partition , computer name , language , network 
+
+-----------------------------------------------------------------
+
+linus disk mangment tools 
+df 
+du 
+fsck 
+-----------------------------------------------------------------
+the 3 2 1 ru8le of backing all the files 
+Hvae 3 copies of your data across 2 media types 
+with one stored  off site 
+
+
+

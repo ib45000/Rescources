@@ -1,0 +1,41 @@
+encryption 
+
+asymatric 
+and symatric 
+
+the usde of sha 1 2 
+MD5	
+ we have a PKI fro athuntication 
+ 
+ 
+defnce in depth 
+
+
+NAC 
+
+health policy 
+
+check for firtwaolls patchh and virsues 
+MAC filtering  
+
+the siowetch and  the router preformce an athuntication on IEE802.1x before activating the sewitch port 
+
+
+network mapping 
+ port scanning 
+ foot print 
+ 
+ 
+rainbow attack 
+
+brute firec eatttack 
+
+ditionry 
+ rainbow tabl 
+
+Zero day explioits 
+
+a packet sniffeer is used to preforme evese dropping 
+
+
+ 

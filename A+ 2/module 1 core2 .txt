@@ -1,0 +1,84 @@
+all the links files system 
+are 
+• ext file systems
+• ext3
+• ext4
+• VFAT
+• FAT/FAT32
+• NFS
+ the end of life cybelf or  the pc wil recive no more uodates 
+ this is uusallt for avbout 5 years 
+
+robcopy command to copy files its a cmd command tool thaty can be used in windowsd 
+
+ 
+group policy editor (gpedit.msc)
+lock desktop 
+styles personlaization
+aplly uniform plocies 
+bot over 
+remote desktop 
+the FAT32 can be used with iother oopretainf systems 
+exFAT is the same as FAT/FAT32 but it support a large files ocver 4 GB 
+the macos machine kernel is based on a aunix 
+---------------------------------------------------------------
+spot light 
+find the files 
+simlioar to windows serach 
+
+FINDER 
+the central os file mager 
+like windoews exploer 
+
+
+REMOTE DISK 
+Optical drive fromm another 
+pc 
+desgin for copyin files 
+will not work with he audios cds or vdieos DV
+
+Misson contol 
+
+keychain 
+system preffrence 
+t erminal 
+image recovery 
+force quite 
+boot camp 
+Tinme machin editordisk utility 
+--------------------------------------- 
+
+
+all THE unix command 
+
+yumis to install a new appp,ication 
+top i to show the current running proccces like task amnger 
+df stands for disk free its shows the amout of opace avilabl
+for the user 
+dig it 
+
+
+the ease of acces 
+mouse usaiblity 
+keybaord 
+
+------------------------------------
+Mnagemnt Consoles 
+devmgmt.msc - deicve manger 
+diskmgmt.msc disk mangemnt 
+compmgmt.msc computer mangment 
+---------------------------------
+
+disk partionoing 
+
+MBR OR GPT 
+
+mbr up to4 partions one pasrt can ve active or bootalbe 
+snd one extended partition tah can be in an MBR 
+its also limted to two terabytesd of stoirge 
+
+in the other hand tghe GUID PARTITION TABLE GPT 
+support up to 128 partition
+support zettabytes 
+required UEFI to run not BIOS which s the oleder version 
+-----------------------------------------------------------------
