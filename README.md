@@ -1,6 +1,6 @@
 Hello! . 
 
-Some of the Pyhton and the HTML projects i did please take a look at them.
+Some of the Pyhton and the  projects i did please take a look at them.
 
 
 
