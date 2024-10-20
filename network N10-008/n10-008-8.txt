@@ -1,0 +1,80 @@
+there is two types of routing 
+static teh admin will manually enter the whole network and have to manually 
+uodater thge routing table  
+dynamiuc the rouitin is automatec 
+
+rules of routing:
+the router  must know ehat to do with the packet
+the router must have an entry for tyhe detnation and it must have a deafult route 
+if not of tghese exist the router wil drop the packet and send an ICMP message 
+if router recive a packet it must kniow how to send it back 
+
+------------------------------------------------
+packet delivery on the same network 
+using the layer 2 which is the MAC address 
+
+router A router B 
+
+A wants to sedn to B 
+A  detremine if it know the ip address of B fi it doesnt 
+A oreform a DNS lookup yo get B ip address 
+A get teh address ,A uses its subnet mask to check if B on the same netowrk 
+A doesnt know the MAC addres of B 
+A sends an ARP request to get the MAC address B replaies with its mac address 
+A get the MAC addresss then form a packet with the source and destnation ip address and the mac addressin an ethernet headerr 
+B notics that the packet is for it then it picks it up  and send
+it to B and if B wwantsd yo replay the same process will be reopatedx 
+all of these will pass by the NIC 
+
+---------------------------------------------------
+ip routign across a siongel router 
+
+the router will check to see if it already know the deafult gate wa of teh router #
+if it doesnt know it the packet undliverable .
+if it knows the router check if it has the mac address in the cache 
+if it doesnt the router sends an ARP brodcast and the router will rreplay 
+then it puts it in an ethernet header and transmit the frame 
+the routrert will recive the frame then it checks to see if it has a routable in the table 
+if it doesnt the packet wil be marked undliverable and ICMP message wil besnt 
+if it does it sends an ARP to leasntr the next mac address tne replace the soruce and the destantion mac addresss 
+the source ad ip address will remain the same 
+
+
+
+NOTE ;
+layer 2 using the MAC address will transmit Frames 
+layer 3 using the Ip adress will transmit packets 
+
+
+---------------------------------------------------
+Routing protocl types:
+
+distnace vector 
+uses RIP 
+link state 
+uses OSPF
+Hybrid 
+uses EGIRP
+Paths vecotr 
+uses BGP
+
+
+we have an interior vs extriort routing 
+interior is whitihin a orivate network 
+normally uses RIP,OSPF,EGIRP 
+extrior 
+uses BGP this is normally between the ISP route to the internnnet 
+
+---------------------------------------------------
+
+
+routign acrosss mutiple rpouter 
+
+the router will take the pakcet check the destnationip address then forward it
+while taking one count of the TTL metric hope counts 
+each router cvhanges the MAC address of the layer 2 this is becasue to get the packert to th next destantion
+till the packet is dleivered
+
+---------------------------------------------------
+
+

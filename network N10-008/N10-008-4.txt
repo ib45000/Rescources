@@ -1,0 +1,63 @@
+teh server message block SMB is m iodifeid by microsift and renamed and now uses port number 445 TCP and now called CIFS 
+now is known as the SMB 3.0 and uses the smae port wehich is 445 
+
+
+file transfer protocol TCP 21 and 20 
+21 is the command portr 
+20 is the dta port 
+now tgher sis two moeds and they are
+ 
+active mode client tels the server wehat port is using rthe ands thge server attempst to sand the ata on thatg port 
+but the firewall will attempt to blocvk the connection noiw thwe admin has to opoen the port so it can be used 
+ 
+passive mode the clinet startsa a session in a seprate session 
+
+
+SFTP is called SSH file tranbsfer protocl 
+runs on teh samse porrt which is ethe 22 and is part of the SSH 
+
+TFTP is a UDP TFTP uses poprt num,ber 69 and it is un scuire 
+
+NFS is a file sharting for linux and unix 
+noe NFS V	 3 uses a port maper to look up the port and it is UDP port 111 
+or it could be TCP , NFS V4 doesnt use port mapper 
+
+now SMPT 
+uses port 25 to send emails in clear t3ext 
+SMTP encrypted version whiuch uses TLS SSL 
+TCP PORT 587 
+TCP POrt 465 legacy
+SMTP is for seneding email and messages 
+BUT POP3 is used ot fdre thge uop the storage on the srver 
+IMASP4 is ued to free up the storge on the device on the local harddrives 
+both of imap and pop3 is ued for retriving emails 
+
+MSSQL (microsift sql ) port 1433 
+SQLNET oracle TCP 1521 
+MYSQL oopen sopurce TCP 3306
+SQLITE open source mobile apps 
+
+the SIP session iniation protocl
+is used tio tear downrtghe VOIP calls and media 
+now thre is two poprt that could be sued 
+PORT 5060 uses UDP for uncrypted traffic 
+PORT 5061 uses TCP woith SSL OR 	TLS 
+
+IPSEC Protoclas 
+Authntaction header AH 
+uses Protocl id 50 
+MD5,SHA
+used to assign the ipo hedaer o fthge ip address 
+
+encapulation secuirty ptotocl 
+uses ID protocl 51 
+used to encrypt and asign the paylioad of data 
+DES,3DES,AES
+internt key exchange IKE V2 
+UDP 500
+useed to establish connection 
+
+	
+
+
+

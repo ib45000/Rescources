@@ -1,0 +1,91 @@
+Module 1 
+OSI module 
+7 Application layer 
+6 presntation layer (SSL , encryption
+5 session layer 
+4 transpoirt ;ayer 
+3 network 
+2 data link 
+1 physical 
+
+the ipv4 header is 32 bit length 
+ipv6 header is 320 bit length
+
+W3E HAHVE:
+Unicast     One to one 
+
+multicasst  one to some 
+brodcast one to all 
+
+list all the 7 layer application protovol 
+
+
+----------------------------
+Encapsulation
+Layers 4, 3, 2 on the sender add a header
+◦ Description of the data and/or protocol
+◦ Layer 2 also adds a trailer
+Decapsulation:
+Corresponding layers on the receiver remove the header
+◦ Refer to the information in the header/trailer
+◦ Pass the PDU up to the next layer
+-----------------------------
+the tcp ip  is a three way hand shake 
+syn -syn/ack ack 
+four way a hand shake 
+fin ack fin ack 
+
+FLAGS :
+every tcp iop hasd at least onn eflah is raised 
+URG  tells the receiver to proirties thios is dayta 
+ACK acknlolwedgment 
+PSH tells then receiver to send the data to the application
+RST tells the rervicer that the converstaion hads ended
+SYN used in a thgreee wayh hand shake 
+FIN use din a four way hand shake
+
+sessiuon established 
+
+protocol id 6 
+
+-----------------------------------------
+
+UDP 
+its a connectrionless protocol
+use din gaming itds not reliable 
+
+used in SNMP DHCP and DNS 
+sessuion not establishe 
+protocol ID 17 
+----------------------------------------
+IP address 
+protocol ID 4 
+----------------------------------------
+ICMP     internet control nmerssage protocol 
+
+its an error reporting protol used by network devices to genrate error messages
+
+layer 3 payload of ip address 
+it sued by ping application
+protocol id 1 
+---------------------------------------------
+IGMP internet group mangment protocol
+
+ its used by a host to notigy that the routers are still intersdted in recvibg m ulticast 
+ protocol ID number 2 
+ --------------------------------------------------------
+
+
+
+the diffrent type of WAN links
+
+Line of sight 
+uplink trunklink 
+two pcs 
+BUS
+STAR 
+RING 
+DUAL RING 
+MESH 
+HYBRID 
+

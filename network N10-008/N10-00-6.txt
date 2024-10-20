@@ -1,0 +1,100 @@
+the CSMA CD is used in a ethernet network and its not in used anymore
+but the CSMA CA is used in a wirless network 
+was used in the Apple tak 
+
+
+colliuson domain 
+a collison can happene in aa segmenent 
+
+wach network segemnt can have a collsuion domainm 
+a segenmnt can be conacted by
+switch 
+hub 
+router 
+
+
+the full duplrsd will neverhave a colluison 
+Tx and Rx tx stands for transmit4er and Rx stand for reciver 
+
+the collison happenes in a half duples network 
+
+
+the MTU maximum transmission Unit 
+its the amout of data that can be sent on the line whiotu teh need to fragment it 
+dsefult 
+ethernet is 1500 bytes 
+dialup ppp is 296 btes  is the router ocnnectedx to another router wihtout any networking directluy 
+
+Most synchronous serial WAN protocols are 1500 bytes
+
+Hub 
+ther is 
+passive huh si a spliter it doesnt geretaed teh singal  
+active hub it geretaes the signal 
+the hub is half duples only 
+
+switchg 
+connect the device on lan to the network and tyo the router
+
+its hardwrae devie that makes forwARDING decision based onm the mac Adrress 
+tjhe siwtch learns all the mac address and learns and builds A table looded 
+how how does the MAC flooding attacks owrks the sietch will be flooded 
+and the table qill be full 
+uses a ASIC application-specific intergated circuit 
+a 48 ports siwtch couls have a 24 coverstaon happeneing at trhe smae time 
+
+
+
+whats a router connects a entire network thicx could be LAN  or WAN
+forwards the packet on a layer 3 which is the ip address 
+ the decsionb are softera based 
+ preformn a route look up 
+ now the router read its routble table bepfore senduing the opacket if there is no entry the rouiter 
+ will send the packet to its deafult or will drop it 
+ it doiesnt examine the sourcw ip address 
+
+
+
+whats a SOHO 
+small office home ooffice 
+oits the rou ter thta is beening used in the hoeme and offices for ju7st a few users 
+
+
+Multi layer sieytch isd a layer 3 siwtch 
+the normal switch will forward traffic basedon the MAC address but the layer 3 sioetch is better becayse #
+forward the traffic and the packets basse on the ip addres and tghen mac address 
+itsmuch better than the sietvch the layer 3 sietches owrtks at layer 2 and up 
+
+has a 24 or 48 ports 
+hass a fiber optic cable 
+or rj  45 
+
+media converter i sused whenthe router doesnt acommdated with the routing 
+this could be from fiber to twisted pair 
+or it could be from caox to fiber and so on 
+
+port forwardign 
+is trhe procces of accesing content from one pc to another or it could be the server 
+the request will have to go through the deafult gate way then tyhe rouiter has tro froward the requets 
+port forwardign is access private network from a acomputer 
+
+
+
+IPS 
+IDS 
+they both inspect packets and check the singuter to detct if nay attack will occur sin anetwork 
+now IDS cant prevent zero day attack 
+buyt IPS can prevent anbs sends an alert to tyhe router to block that traffic 
+
+collion domain isa when two copnpuerts try to sned packet at the sAME TIME now a cxollison domain could be 
+in the sme segment or the same net3ork 
+the whole segemtn could be a collion domain 
+
+brodcast dopmain isa hwner a computers sneding and recivng brodcast from one another 
+now if we have one large brocast doaimn thic ould be a problem and the bandwith will be less 
+to sprereate this will use a router because the router cant foroward brocast 
+
+
+
+
+
