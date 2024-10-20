@@ -15,4 +15,4 @@ I have also inluded the ;
 
 NOTE :
 
-please taek a breif look on the ND100 & 101 as it specialies in microsoft windows it will be of a help   
+please taek a brief look on the ND100 & 101 as it specialies in microsoft windows it will be of a help   
