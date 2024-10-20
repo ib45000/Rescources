@@ -1,0 +1,592 @@
+MDOULE 1 	
+the five impotnat secuirty defnse 
+layering 
+limnitng 
+diversty 
+obscuirty 
+simplicity 
+
+HIPPA 
+sarbox 
+GLBA 
+PCI DSS 
+over 58 percent of breaches are from the insiders 
+
+
+
+-----------------------------------
+MODULE 2 
+
+compiuter virus 
+programvitus 
+macro 
+appender infrection 
+
+
+swiss chese infection '
+ssplit infection 
+mutation 
+
+
+trojan 
+
+special typ erof trojan 
+remote acess trpjan ; give acesss to remote attacker or user 
+
+root kits are tools 
+
+all the diffreent tyope of social engeering starts wioth human wea=keness 
+phinign usingh the email '
+
+Hoxes false warning caliming tober he it department and 
+peoviibnf a phone number to call the scammewre to chnager the pc 
+setting so they can gain access '
+
+the watter hole attack 
+
+-------------------------------------------------------------------
+MODULE 3 
+
+cryptopraphy 
+scrambling the info 
+transform the info 
+
+
+((keys 
+we have 
+Key pairs 
+public key 
+private key 
+both direcation rthey work in both direcatiopn to 
+encrypt and decrypt ))
+
+Steganography 
+Hides the existense of data 
+an image 
+achieve may hide data 
+
+we have ROT 13
+and XOR cybpighjer 
+
+
+we also haver DES and 3DES triple all encryption 
+DES uses a 56 bit key 
+3DES uses a three rounds encryption cipher text 
+----------------
+
+AES advabced encryption is the replacmetn for DES and ist moire secure than DES 
+
+
+DSA 
+ 
+
+stream cippher 
+Block cipher
+sponge function 
+
+____________________________
+
+Hash Alograthem 
+
+fixed size 
+unique 
+orginal 
+secure 
+
+((reffre to the note bOOK ))
+
+
+• Common asymmetric cryptographic algorithms:
+• RSA
+• Elliptic Curve Cryptography
+• Digital Signature Algorithm
+• Those relating to Key Exchange
+
+
+we also have 
+RSA 
+EEC 
+
+(PGP)
+(GNuPG)
+(EFS )
+(FDE)
+(SEDS)
+(HSM)
+
+
+
+collison attavk 
+birtgdAY attack 
+
+emcrption can be don ethorugh the softwarer and hardarwe 
+
+spftware 
+files and fules system cruptography 
+pretty good privacy 
+GNU  privacy guard 
+openb pgp 
+
+
+
+
+------------------------------------------------------
+{MDOULE 4 }
+
+Most common modes:
+• Electronic Code Book (ECB)
+• Cipher Block Chaining (CBC)
+• Counter (CTR)
+• Galois/Counter (GCM)
+
+
+Alograthem inpout vslues 
+
+salt 
+nonce 
+initialization IV 
+
+
+trusted third opar ty 
+didgtal certifacte 
+ 
+
+  in ordert to appluy fort a digital certifacte u must complete a 
+  csr ewhicvh inl7u8des the name adrress and also  the email adreess as well 
+
+CR vertifacte respority 
+top mange and vuiew certifactes 
+
+OCSP 
+and also OCSP stabling 
+
+
+there is diffreent tyopes of ce4rtifcates 
+Rooot certifcate 
+Domain certifacte
+Hradware certifacte
+
+
+the proces of using ,more than on ecertifcate os called 
+certifacte Chaining 
+the beggining isd called root digital certiofcate 
+tghe end pount called user didgital certifcate 
+
+willd card 
+subject alternative name 
+
+
+
+
+
+----------------------------------
+
+Module 5
+man in the middle attack 
+man in the broswer attack 
+rerplay attack 
+denail of serives also DDOS 
+
+
+
+
+--------------------------------------------------------------------
+
+MODULE 6 
+
+we haeve got difrent types of network devices
+switches 
+bridges 
+hubs 
+routers 
+load balancer 
+firewalls  copuld be host based whiohc is software or hardarwe 
+
+
+firewalls
+statless packets filtering 
+stateless packets 
+
+.Rules are :
+allow  let the packet thorugh
+drop prevent the packet but dont send response to the sender  
+Reject prevent the packets , but send response to the sender 
+
+
+proxy 
+
+
+mail gateway 
+IMAP 
+POP/POP3
+
+
+------------------------------------------------------
+THE Network detection system 
+   
+NIDS 
+IPS 
+IDS 
+SIEM 
+
+Inline IDS 
+Passive IDS 
+Host IDS 
+Network IDS AKA NIDS 
+these are all used to detet an atttack 
+
+
+we aslso have the NIPS 
+simliar to the IDS bu the NIPS blobks an attack 
+
+Nips network prevnton intrution system 
+
+
+
+
+
+SSL decryptor
+SSL TLS accelrator 
+
+-----------------------------------
+
+diffreent Zones in  Network 
+intranet 
+Extranet 
+guest network 
+
+
+NAC network access control 
+DLP Data Loss Prevnetion 
+
+-----------------------------------------------------------
+Module 7 
+
+REFFRE TO THE NOTE BOOK 
+
+FTP 
+uses port 20 and 21 
+SFTP uses a port 22 
+
+secure files trasnsfer uses only one port
+TFTP trivial ftp 
+transfer a diles in a LAN 
+local area network 
+most poeple dotn use  this 
+it uses a UDP incted of TCP
+
+sensore should be p;lace don the stream of the straffic 
+
+
+DEP Data Execuation Prevention 
+    prvent an attacker from uysingf a buffeer over flow
+
+
+FIC file ingreiy check 
+  monitor any changes to the pc files
+
+
+
+FIC Faile intergity check 
+
+
+Aggregation switch 
+coreelation engine 
+DDos mitigator 
+
+
+---------------------------------------------------------
+
+MODULE 8 
+
+diffrfent typ e of bluetouth attacks 
+
+bllue jacking 
+blue snarfing
+
+
+Netwok attacks 
+evaes droppiong 
+data theft 
+manm in trhe middlwe attack 
+devcice theft 
+
+fake tags 
+
+
+the firsdt devloping of the IEE 802.11 was in the 18884 
+1977 wwas the firdt relase
+the hughes wped was 5.5mbps
+1999 was therelase oif the 802.11b of a pedd if 11mbps 
+IEE 802.11a 
+it hhas a rate of 54 mbps using a  5ghs spercturm 
+
+
+
+
+
+Frequency 2.4 GHz 2.4 GHz 5 GHz 2.4 GHz 2.4 GHz & 
+5 GHz
+60 GHz 5 GHz
+Maximum data 
+rate
+2 Mbps 11 Mbps 54 Mbps 54 Mbps 600 Mbps 7 Gbps 7.2 Gbps
+Indoor range 
+(feet/meters)
+65/20 125/38 115/35 115/35 230/70 32/10 115/35
+Outdoor range 
+(feet/meters)
+328/100 460/140 393/120 460/140 820/250 N/A 460/140
+Ratification 
+date
+1997 1999 1999 2003 2009 2013 2014
+
+
+
+
+we also have an RFID attacks 
+and the current verdiosn is RFID genration  2 
+
+RFID tage are oasisv and doent rwuire powwer supply 
+
+
+rouge accese point ned to be set up by an insider usualll y an employee 
+
+eviltwin attack
+
+
+WEP is an IEE802.11 secuitty proyocol 
+encrypt the olain text into cipher tecxt 
+wekaness WEP uses a 64 bit or 128 boit jkey number 
+
+
+no wdsays we use the iee802.11i 
+which uses teh  WPA and the WPA2 
+
+we have got two modes of WPA 
+we have:
+WPA peronal 
+WPA enterprise 
+
+IEE802.11X 
+these iws an athunticaating prtoocl 
+uses a four typed of packets 
+reuqest response 
+success
+failuire 
+there is also 
+PEAP proptected EAP
+
+
+
+we also jaev an TKIP which is ued in the WPA 
+
+
+
+----------------------------
+MODULE 9 
+we havea  diffrent types of operating systems 
+Network OS 
+Server Os 
+workstation 
+appliance 
+kiosk 
+mobile 
+
+ A tool can be used to deploy all the secuiorty setting 
+ inted of apply9ng the same settings to one pc at a time 
+
+
+electro mangnentic spying 
+TEMPEST to  prvent the spying 
+
+
+
+
+
+
+ anti malware inludes 
+ antivirus 
+ antispam 
+ anti spyware
+
+
+ Families of SD (secure digital )
+ we haev  
+ SDSC
+ SDHC
+ SDXC
+ SDIO
+ these are all used by the perhial secuirty device 
+
+ MFD mulitfunctional device 
+
+
+ PDS  protected dsitributioon system 
+ two kins of pds 
+ Hardened pds
+ Alarmed carrier pds 
+
+
+ application secuiorty 
+ applicaton dervelopmnent secuirty 
+ secure coding teqnuiqe 
+ code testinng 
+
+
+ Application development lifecycle models:
+• Waterfall model
+• Agile mode
+
+
+code tesing should be done in a sandbxo to make usre tthat the code is 
+functioniung prpoolay before production 
+
+Static progrme analyzers 
+Dynmic analysis /(fuzzing )
+stress testing 
+intergity measuremnt 
+
+secuirty patch 
+faeture uodate 
+service update 
+ 
+
+
+
+-----------------------------------------
+Module 10 mobile secuirty 
+
+embeded systemare 
+medical devices
+Aircraft 
+vecchiles 
+industrial machines 
+heating 
+ventalition 
+air conditiong 
+HVAC 
+
+ABSN this is an IOT 
+
+
+
+----------------------------------------------------------------
+Module 11 
+all the diffrent ypes of  offline passowrd attacks
+
+Offline password attacks include:
+• Brute force
+• Mask
+• Rule
+• Dictionary
+• Rainbow tables
+• Password collections
+
+
+ 
+socxial enginering 
+phidhiong shoulder surfing dumbsert deiving 
+
+
+
+Capturing
+-Keylogger, protocol analyzer
+-Man-in-the-middle and replay attacks
+
+
+
+Tokens 
+also OTP one tyime ppassowwrd 
+TOTP time based on time passowrd
+
+---------------------------------------------------------------
+
+Module 12 
+all the acces control are :
+Five major access control models
+• Discretionary Access Control (DAC)
+• Mandatory Access Control (MAC)
+• Role Based Access Control (RBAC)
+• Rule Based Access Control 
+• Attribute-Based Access Control (ABAC)
+
+an accoutnt that is still active even after any employee has left '
+is called an orphgan account 
+Dormant acccount an acoutn that hasnt been accessed for long time 
+
+
+the ACL ported to SQL as well so it can provide a data basse for secuioirty 
+
+
+Each entry in the ACL table is called access control entry (ACE)
+
+
+• Different services can be used to provide identity and access services:
+• RADIUS
+• Kerberos
+• Terminal Access Control Access Control Systems
+• Generic servers built on the Lightweight Directory Access Protocol 
+(LDAP)
+• Security Assertion Markup Language
+• Authentication framework protocols
+
+
+RADIUS 
+ was devloped iin 1992 
+ 
+ LDAP light weight active dirctory 
+it run overs tcp / ip 
+
+
+
+ X.500 is a standred diecrectory for network 
+
+
+--------------------------------------------------
+mdoule 13 
+
+
+threew typesd of pen test that acan be conducted 
+black box 
+white box 
+geray box 
+
+Active reconnaissance – involves actively probing the system to find 
+information
+• Passive reconnaissance – the tester uses tools that do not raise any 
+alarm
+
+______________________________________________________________
+Module 14 bussnines continuitty 
+
+
+
+
+
+
+----------------------------------------------
+Module 15 
+
+
+all the risk is abasde on a numbersa or grad3e froim loiw ti higth 
+
+
+
+
+the risk calculatioon 
+
+MTBF mean time beween filaure 
+MTTR mean time to recover 
+MTTF mean timm to failure 
+FIT fsailure in time 
+
+
+Utomation inlcudes the following 
+scabbility 
+elasticyty 
+continousd monitoring 
+
+master image 
+templat     
+
