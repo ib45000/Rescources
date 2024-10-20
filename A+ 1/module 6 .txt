@@ -1,0 +1,23 @@
+• Legacy encryption system based on RC4 cipher
+• 64-bit or 128-bit key
+• Flaw in key production method; easy for attacker to generate key
+• Deprecated and should not be used
+WPA
+WPA2
+• Based on RC4
+• Adds TKIP to fix security problem
+• WPA2 developed to meet 802.11i security standards
+• Use WPA2 whenever possible
+• If not supported by devices, use WPA
+
+Revise UTM 
+and firewalls 
+DMZ 
+
+consider the proxy 
+
+SSH 
+can use  ap[sssowtd rd  and a username 
+
+kerbros 
+puclic key 

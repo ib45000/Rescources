@@ -1,0 +1,19 @@
+• DDR and DDR2: 200 pins
+• DDR3: 204 pins
+• DDR4: 260 pin
+
+problem with magentic hard dsrive 
+low rpm and low capacity 
+in a alptop its 2.5 inches or 1.8 
+in  desktop ist  3.2 inches 
+they are actuualt slower 
+
+
+-----------
+
+trouble shooting a alp[topp 
+diplay 
+wrong image 
+image iws too big 
+image is too smalll 
+the image is not clear 

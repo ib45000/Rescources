@@ -1,0 +1,5 @@
+LCD 
+TN 
+IPS
+VA 
+these are the dip,ay type of mobile deivese 

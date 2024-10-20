@@ -1,0 +1,22 @@
+multi threading in a pc
+also known as HT SMT OR HTT
+reduce the cpu time 
+smp SMP: (symmetric multiprocessing)
+
+
+
+heat sink'
+thermal paste use dfor the cpu 
+passive colliinf device 
+
+for system configuratipo we use the command msi config 
+in order to get into the bios hold down the jshfit buttoin then restart 
+
+TPM trusted platforem module 
+HSM	hardwarwe security module 
+
+
+Dc diresct cuyrrent power flows one direction 
+AC alternating currrent flows both direcctio  
+
+psu power supplay unit 

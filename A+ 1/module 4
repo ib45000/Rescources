@@ -1,0 +1,45 @@
+multi threading in a pc
+also known as HT SMT OR HTT
+reduce the cpu time 
+smp SMP: (symmetric multiprocessing)
+
+
+
+heat sink'
+thermal paste use dfor the cpu 
+passive colliinf device 
+
+for system configuratipo we use the command msi config 
+in order to get into the bios hold down the jshfit buttoin then restart 
+
+TPM trusted platforem module 
+HSM	hardwarwe security module 
+
+
+Dc diresct cuyrrent power flows one direction 
+AC alternating currrent flows both direcctio  
+
+psu power supplay unit 
+
+
+List the devices that need to have power served by the PSU. Be sure to 
+include the following:
+• Motherboard
+• CPU
+• RAM
+• Hard drives
+• CD drives
+• DVD drives
+• Floppy drives (if any)
+• Expansion card 
+
+1 short beep Normal POST—System is OK
+2 short beeps POST error—Error code is shown on screen
+No beep Power supply or motherboard problem
+Continuous beep Power supply, motherboard, or system memory problem
+Repeating short beeps Power supply, motherboard, or keyboard problem
+1 long, 1 short beep Motherboard problem
+1 long, 2 or 3 short beeps Display adapter error
+3 long beeps 3270 keyboard card
+CMOS batttery is useed to keep record of the date and time whern 
+the pc is witche off 

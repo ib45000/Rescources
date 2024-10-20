@@ -1,0 +1,21 @@
+the prpouse of aLL THE vms AKA 
+sand box is rto proivide a testing iviromnet 
+for devloper 
+
+server side hyper vsior 
+application yhyper visor 
+conatiner hyper vsior
+
+hyper visor1 
+hyper visor 2 
+
+SLAT 
+
+rogue vm 
+and Vm sprawl 
+Resource allocation through:
+• Rapid elasticity
+• Resource pooling.
+• On-demand self-service. 
+• Measured service
+ 

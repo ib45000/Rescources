@@ -1,0 +1,78 @@
+5 100 MHz 100 Mpbs 100 m (328 ft) 100BASE-TX
+5e 100 MHz 1 Gbps 100 m (328 ft) 1000BASE-T
+6 250 MHz 1 Gpbs 100 m (328 ft) 1000BASE-T
+6 250 MHz 10 Gbps 50 m (180 ft) 10GBASE-T
+6A 500 MHz 10 Gbps 100 m (328 ft) 10GBASE-
+
+
+UTP unshileded twisted pair 
+STP shiled twisted pair 
+the wiring protocol for 568B and 568A 
+the A aklways starts with the white green 
+the B alwyas starts eioth the whiute orange
+
+
+SMF single mode fiber 
+MMF multi mode fiber 
+channels 1 6 11 dont overlap in the USA 
+chnnels 23 dont overlap in thew europe 
+EBS is the group of BSS 
+BSS forms (Basic service set )
+
+Hybrid Fiber Coax (HFC)
+ONT optical network termial 
+FTTP fiber to the premisses 
+
+WISP wilress inmternmet sevice provid3er 
+uwsed a bridge network to proivide a service 
+
+LOS line of sight 
+TCP/IP 
+
+Aplloctaion
+trsansport 
+internet 
+link
+
+IMAP internet message accces protocol
+TCP and TLS works together to provide the security 
+such in HTTPS FTP asnd so on 
+
+Tls wont go on top the UDP 
+
+SSH 
+TFTP 
+
+
+In NAT, router converts the 
+internal private IP address to a 
+valid public address.
+
+also some of teh iop adrres can beb reserved in the DHSCP server 
+
+coverting to binaryt an ipv6 anmd an ipv4 
+
+
+NAT network addres translation 
+
+NAT takes the rtpivatre ip addres 4  and translates so the devoce 
+can accese the internet u cant accese the dseive with an aprivate ip addres 
+as its noi publivy regisrted 
+its convertes private to public and 
+publuic to private 
+
+PORTS NUMBERS AND PROTOCOLS 
+
+module 5 page 117 
+
+remmenr to rrvie the AAAA protocols page 120 or 123 
+
+also the TCP IP 
+also the TCP IP 
+
+
+
+
+
+
+

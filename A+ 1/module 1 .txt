@@ -1,0 +1,47 @@
+the monitor uses N OLED Display 
+
+WXGA 1280x800 16:10
+SXGA 1280x1024 5:4
+HD 1366x768 16:9
+WSXGA 1440x900 16:10
+HD+ 1600x900 16:9
+Full HD 1920x1080 16:9
+QHD 2560x1440 16:9
+4K UHD 3840x2160 16:
+OLED diplasy csn br msde of pladtic 
+
+• USB 1.1
+– Low speed: 1.5 Mbs, 3 meters – Full speed: 12 Mbs, 5 meters
+• USB 2.0: Data rate of 480 Mbps shared among all devices attached to a host
+• USB 3.0: 
+• SuperSpeed Mode provides bandwidth of 5 Gbps and a full duplex link.
+• USB 3.1: SuperSpeed+ Mode provides bandwidth of 10 Gbps.
+• USB 3.2: 20 Gbps possible when using USB-C ports and cables.
+
+
+
+DVI-A: analog only
+• DVI-D: digital only
+• DVI-I: analog and digita
+
+ESD generators:
+• Synthetic clothing.
+• Low humidity.
+• Cooler temperature
+
+we hgave diffrent type of pc size 
+full tower 
+mid toweer 
+mini trower 
+slimline 
+ssf (small factor )
+
+
+volatile memeory 
+noemally memeory as DIMMS 
+
+RTC (REAL TIME CLOCK )
+the clock spped mesaureed in mh=z aND GHz 
+mhs is million per second 
+Ghz is billion per secondd 
+
